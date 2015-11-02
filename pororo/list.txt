@@ -1,3 +1,3 @@
-﻿QQyYCAvkOXY@[뽀로로 1기]@pororo_se01.txt
-TEv28W1-eLM@[뽀로로 2기]@pororo_se02.txt
-tdLeW41jdBo@[뽀로로 3기]@pororo_se03.txt
+﻿QQyYCAvkOXY@[뽀로로 1기]@pororo/pororo_se01.txt
+TEv28W1-eLM@[뽀로로 2기]@pororo/pororo_se02.txt
+tdLeW41jdBo@[뽀로로 3기]@pororo/pororo_se03.txt

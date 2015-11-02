@@ -1,2 +1,2 @@
-﻿NQRVyY5m3nM@[꼬마버스타요 1기]@tayo_se01.txt
-Kv7J1T4Q2dk@[타요의 씽씽 극장 1기]@sing_along_with_tayo_se01.txt
+﻿NQRVyY5m3nM@[꼬마버스타요 1기]@tayo/tayo_se01.txt
+Kv7J1T4Q2dk@[타요의 씽씽 극장 1기]@tayo/sing_along_with_tayo_se01.txt
