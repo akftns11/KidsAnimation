@@ -2,5 +2,5 @@
 TEv28W1-eLM@[뽀로로 2기]@pororo/pororo_se02.txt
 tdLeW41jdBo@[뽀로로 3기]@pororo/pororo_se03.txt
 pY0h6zKsTXI@[뽀로로와 노래해요 1기]@pororo/sing_with_pororo_se01.txt
-F0wzxNSuLSA@[뽀로로와 노래해요 2기@pororo/sing_with_pororo_se02.txt
+F0wzxNSuLSA@[뽀로로와 노래해요 2기]@pororo/sing_with_pororo_se02.txt
 A8SvJGOWYG0@[뽀로로 인기동요]@pororo/pororo_popular_children_song.txt
