@@ -8,7 +8,6 @@ QKhHTk0lWLc@최강탑플레이트@top_plate/list.txt
 x59moZlbLm4@또봇@tobot/list.txt
 TIz2L2uNQWI@코코몽@cocomong/list.txt
 9mBLamTi1S8@안녕자두야@hello_jadoo/list.txt
-BtUCXonoM_c@구름빵@cloud_bread/list.txt
 eA2R0FOLBdc@후토스@hutos/list.txt
 o5cGaJaKzpw@출동 슈퍼윙스@super_wings/list.txt
 zivGTCA6MF8@피쉬앤칩스@fish_and_chips/list.txt
